@@ -678,7 +678,7 @@ The MCP-native answer in this category. Metorial hosts your MCP servers, vaults 
 
 ---
 
-## MCP Ecosystem (3)
+## MCP Ecosystem (4)
 
 <details>
 <summary>What this category is for</summary>
@@ -719,6 +719,18 @@ The registry layer on top of the MCP ecosystem. Smithery catalogs every known MC
 **Integration:** MCP Server · **Homepage:** [Smithery](https://smithery.ai) · **Docs:** [https://smithery.ai/docs](https://smithery.ai/docs)
 
 </details>
+
+<details>
+<summary>TWZRD Agent Intel - <strong>On-chain trust scoring MCP server for Solana agent wallets</strong> - <a href="https://intel.twzrd.xyz">Website</a></summary>
+
+MCP server that scores AI agent wallets on Solana for trust and reputation before cross-agent interactions or x402 micropayments.
+
+When autonomous agents need to interact with or pay unknown wallets, there is no way to know whether the counterparty is legitimate without external verification. TWZRD solves this: an MCP server that queries on-chain transaction history, behavioral patterns, and wallet age to return a trust score (0-100) and a go/no-go preflight check. The get_trust_receipt tool issues a cryptographically-signed receipt for audit trails, paid via x402 micropayment.
+
+**Integration:** MCP Server · **Homepage:** [TWZRD Agent Intel](https://intel.twzrd.xyz) · **Docs:** [https://intel.twzrd.xyz](https://intel.twzrd.xyz)
+
+</details>
+
 
 ---
 
